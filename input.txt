@@ -1,0 +1,10 @@
+First Event;2021;6;9;S;0;1;
+Second Event;2021;6;9;M;2;3;
+Third Event;2021;6;9;T;4;5;
+Fourth Event;2021;6;9;W;6;7;
+Fifth Event;2021;6;9;H;8;9;
+Sixth Event;2021;6;9;F;10;11;
+Seventh Event;2021;6;9;A;12;13;
+Eighth Event;2021;6;9;MW;14;15;
+Ninth Event;2021;6;9;TH;16;17;
+Tenth Event;2021;6;9;AS;18;19;
